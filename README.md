@@ -15,7 +15,7 @@ I give you proof of the functionality of the program with the results which I go
 
 To view the notebook, either go to the `src` folder or click [here](https://github.com/RiccardoMPesce/Sequence-Analysis-with-Python/blob/main/src/project_notebook_sequence_analysis.ipynb) to access it.
 
-### Copyright notice
+### Copyright note
 All the material was created by the staff of University of Helsinki, who made it available through this course on mooc.fi. All the helpers inside 
 `tmc`, all the tests and the initial skeleton were created by them. 
 
