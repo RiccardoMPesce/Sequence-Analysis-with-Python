@@ -14,3 +14,11 @@ text cells: *Idea of solution* and *Discussion*. The former is where I describe 
 I give you proof of the functionality of the program with the results which I got.
 
 To view the notebook, either go to the `src` folder or click [here](https://github.com/RiccardoMPesce/Sequence-Analysis-with-Python/blob/main/src/project_notebook_sequence_analysis.ipynb) to access it.
+
+### Copyright notice
+All the material was created by the staff of University of Helsinki, who made it available through this course on mooc.fi. All the helpers inside 
+`tmc`, all the tests and the initial skeleton were created by them. 
+
+I only take credit for implementing the modules in the notebook, as well as filling the **Idea of solution** and **Description** after every implemented module.
+
+With the present notice, I want to thank the staff of University of Helsinki for having provided such interesting and educational course to us through their MOOC platform.
